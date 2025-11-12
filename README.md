@@ -104,7 +104,7 @@ Steps
 
 Clone the repository
 
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https:https://github.com/Sheetal765
 cd data-analytics-project
 
 
