@@ -116,5 +116,4 @@ Run SQL scripts inside the /sql_queries folder.
 
 Open Power BI and connect it to your SQL database.
 
-Review and customize the Gamma presentation in /reports/presentation.gamma.# Customer_Behavior_Analysis
-Data Analytics Project showcasing Customer B.ehavior analysis using python,sql and power bi
+Data Analytics Project showcasing Customer Behavior analysis using python,sql and power bi
